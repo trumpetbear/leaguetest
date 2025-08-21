@@ -1,0 +1,2206 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml" lang="en">
+<head>
+    <link rel="stylesheet" href="main.css">
+</head>
+<body>
+    <div id="page" class="   ">
+        <div id="pageHeaderTopBox" style="display: none">
+            <div id="pageHeaderTop">
+                <div id="pageHeaderTopTitle"><a href="/" class="ajax headerLogo f5-logo" aria-label="sicem365.com"></a></div>
+                <div id="pageHeaderTopSocial" class="">
+                        <a class="pageTwitter" href="https://x.com/sicem365" target="_blank" aria-label="SicEm365 on Twitter"><span class="logo"></span></a>
+
+                        <a class="pageFacebook" href="https://www.facebook.com/sicem365" target="_blank" aria-label="SicEm365 on Facebook"><span class="logo"></span></a>
+
+                        <a class="pageInstagram" href="https://instagram.com/sicem365" target="_blank" aria-label="SicEm365 on Instagram"><span class="logo"></span></a>
+
+
+                </div>
+                <div id="pageHeaderTopSearch" class="f5-bg-dark ">
+                    <form>
+                        <input aria-label="search" type="search" placeholder="Search" class="pageSearch" id="search-cancel" />
+                    </form>
+                </div>
+            </div>
+        </div>
+        <div id="pageHeaderBox" class="non-full-header f5-bg">
+            <div id="pageHeaderLeftFill" class="non-full-header f5-bg"></div>
+            <div id="pageHeader" class="non-full-header f5-bg">
+
+                <div class="left-side-nav">
+                    <div id="pageTitle" class="non-full-header f5-bg">
+                        <a href="/" class="ajax headerLogo f5-logo" aria-label="sicem365.com"></a>
+                    </div>
+
+                    
+<div id="pageNav">
+    <ul>
+        <li class="nav-item-forums ">
+            <a href="/forums" class="ajax">Forums</a>
+        </li>
+
+
+    <li class="has-sub">
+        <a class="ajax" href="/baylor-football">
+Football        </a>
+        <ul class="f5-text">
+            <li><a class="ajax" href="/baylor-football">News</a></li>
+
+                <li><a class="ajax" href="/baylor-football/schedule">Schedule</a></li>
+
+                <li><a class="ajax" href="/baylor-football/standings">Big 12 Standings</a></li>
+
+                <li><a class="ajax" href="/baylor-football/roster">Roster</a></li>
+
+                <li><a class="ajax" href="/baylor-football/staff">Staff</a></li>
+
+                <li><a class="ajax" href="/baylor-football/depth-chart">Depth Chart</a></li>
+
+                <li><a class="ajax" href="/baylor-football/class-breakdown">Class Breakdown</a></li>
+
+
+
+                <li><a class="ajax" href="/s/15422/baylor-football-2023-season-stats-page">Season Stats</a></li>
+        </ul>
+    </li>
+
+            <li class="has-sub">
+                <a class="ajax" href="/football-recruiting">Recruiting</a>
+                <ul class="f5-text">
+                    <li><a class="ajax" href="/football-recruiting">News</a></li>
+
+                        <li><a class="ajax" href="/football-recruiting/commits">Baylor Commits</a></li>
+
+                        <li><a class="ajax" href="/football-recruiting/offers">Baylor Offers</a></li>
+
+                        <li><a class="ajax" href="/football-recruiting/predictions">Predictions</a></li>
+
+
+                        <li><a class="ajax" href="/football-recruiting/out-of-state">Out of State</a></li>
+
+                        <li><a class="ajax" href="/football-recruiting/recruits">All Recruits</a></li>
+
+                    <li><a class="ajax" href="/s/15421/2023-baylor-football-transfer-portal">Transfer Portal</a></li>
+                </ul>
+            </li>
+            <li class="has-sub">
+                <a class="ajax" href="/basketball-recruiting">MBB Recruiting</a>
+                <ul class="f5-text">
+                    <li><a class="ajax" href="/basketball-recruiting">News</a></li>
+
+                        <li><a class="ajax" href="/basketball-recruiting/commits">Baylor Commits</a></li>
+
+                        <li><a class="ajax" href="/basketball-recruiting/offers">Baylor Offers</a></li>
+
+                        <li><a class="ajax" href="/basketball-recruiting/predictions">Predictions</a></li>
+
+
+                        <li><a class="ajax" href="/basketball-recruiting/out-of-state">Out of State</a></li>
+
+                        <li><a class="ajax" href="/basketball-recruiting/recruits">All Recruits</a></li>
+                </ul>
+            </li>
+
+        <li class="has-sub">
+            <a class="no-link">Sports</a>
+            <ul class="f5-text">
+                        <li><a class="ajax" href="/baylor-football">Football</a></li>
+                        <li><a class="ajax" href="/baylor-basketball">Basketball</a></li>
+                        <li><a class="ajax" href="/baylor-womens-basketball">Women&#x27;s Basketball  </a></li>
+                        <li><a class="ajax" href="/baylor-baseball">Baseball</a></li>
+                        <li><a class="ajax" href="/baylor-softball">Softball</a></li>
+                        <li><a class="ajax" href="/baylor-soccer">Soccer</a></li>
+                        <li><a class="ajax" href="/baylor-volleyball">Volleyball</a></li>
+
+            </ul>
+        </li>
+
+
+        <li class="has-sub">
+                <a class="no-link">Premium</a>
+
+            <ul class="f5-text">
+
+                <li><a class="ajax" href="/premium/feed">Premium Feed</a></li>
+
+                    <li><a href="/chat">Chat<span id="nav-chat-link-users"></span></a></li>
+
+                <li><a class="ajax" href="/subscribe">Subscription Benefits</a></li>
+
+            </ul>
+        </li>
+        
+        <li class="has-sub">
+            <a class="no-link">More</a>
+            <ul class="f5-text">
+
+                <li><a href="/media">Media</a></li>
+
+                <li><a href="/segments">365 Sports Radio Episodes</a></li>
+
+
+                <li><a href="/forums/potd/filtered">Post of the Day</a></li>
+
+                <li><a href="/search">Search</a></li>
+
+                    <li><a href="/store">Store</a></li>
+
+                <li><a href="/contact" class="ajax">Contact Us</a></li>
+                <li><a class="ajax" href="/help/faq">Help</a></li>
+            </ul>
+        </li>
+    </ul>
+
+</div>
+
+
+                    <div id="pageSearch" style="display: block;">
+                        <form>
+                            <input aria-label="search" type="search" placeholder="Search" class="pageSearch" id="search-cancel" />
+                        </form>
+                    </div>
+                    <div id="pageLive"><a href="/live">Live</a></div>
+                    <a href="/chat" id="pageChat">
+                        <div class="live">LIVE CHAT</div>
+                        <div class="users f5-text-alt">0 USERS</div>
+                    </a>
+                </div>
+
+                <div class="right-side-nav">
+                            <a href="/subscribe" id="btnSub"><span style="visibility: hidden;">subscribe</span></a>
+                            <a href="/subscribe" id="btnUpgrade"><span style="visibility: hidden;">subscribe</span></a>
+
+                    <div id="pageLogon">
+                        <a id="login-link" href="/account/logon" data-base="/account/logon">Log In</a> |
+                        <a href="/account/register">Register</a>
+                    </div>
+                    <ul id="pageStatus" style="display: none;" data-bind="visible: true">
+                        <!-- ko foreach: dashboards -->
+                        <li class="dashboard-item" data-bind="if: isVisible, attr: { id: dashboardId }, element: dashElement, class: customClass, hover: $parent.toggleDash.bind($data, $data), hoverTimeout: 250">
+                            <div class="dashboard-button-container">
+                                <!-- ko if: $parent.isHoverMode -->
+                                <a class="dashboard-button" data-bind="attr: { 'aria-label': accessibilityText, href: dashButtonLinkUrl }"><span style="visibility: hidden;" data-bind="text: accessibilityText"></span></a>
+                                <!-- /ko -->
+                                <!-- ko ifnot: $parent.isHoverMode -->
+                                <a class="dashboard-button" data-bind="click: $parent.activateDash, attr: { 'aria-label': accessibilityText }, css: { active: isActive }"><span style="visibility: hidden;" data-bind="text: accessibilityText"></span></a>
+                                <!-- /ko -->
+                                <div class="dashboard-badge" data-bind="visible: unreadCount, text: unreadCount, class: customBadgeClass"></div>
+                            </div>
+                            <div class="dashboard-arrow" data-bind="visible: isActive"></div>
+                            <div class="dashboard-panel" data-bind="visible: isActive, template: { name: templateName, data: $data }"></div>
+                        </li>
+                        <!-- /ko -->
+                        <li id="dashboard-admin" class="dashboard-item" data-bind="if: isAdmin, click: std.admin.load">
+                            <a class="dashboard-button" aria-label="admin menu"><span style="visibility: hidden;">admin menu</span></a>
+                        </li>
+                    </ul>
+                </div>
+
+                <div class="username-nav">
+                    <a class="" href="/account" id="btnPageUsername"> </a>
+                </div>
+            </div>
+        </div>
+
+        <div id="pageBodySpacer" class="f5-bg"></div>
+
+        <div class="pageAd topAd">
+            <div data-hide="true" id='div-gad-LeaderboardTop' style="min-height: 90px;"></div><div id='div-gad-LeaderboardTop2' style="display:none; min-height: 90px;"></div><div id='div-gad-LeaderboardTop3' style="display:none; min-height: 90px;"></div>
+        </div>
+
+        <div id="pageBody">
+
+
+
+<div id="stories">
+    <div id="absoluteTop"></div>
+    <div id="story" class="box">
+
+                <div id="mplayer">
+                    <img id="poster" src="https://f5s001media.blob.core.windows.net/photos/0073424-tolv-1280x720.jpg" alt="Story Poster"/>
+
+
+                        <div class="premium f5-premium"></div>
+
+                </div>
+                    <div class="photoCredit">Photo by Colt Barber - SicEm365.com</div>
+
+        <div id="content">
+                <a class="sport-name ajax f5-link" href="/baylor-football">Baylor Football</a>
+                <div class="clearFix"></div>
+
+                <h1>Projecting Baylor&#x27;s Defensive Depth Chart: Questions at Safety, Depth at Linebacker, More</h1>
+
+                    <div id="author">
+                        <a id="mug" href="/premium/tagfeed/235" class="ajax " style="background-image: url(https://f5s001media.blob.core.windows.net/photos/0067039-wraj-68x68.jpg)"><span style="display:none;">Author</span></a>
+
+<a class="ajax f5-link" href="/t/235/sicem365-staff" id="name">By SicEm365 Staff</a>                    </div>
+                <div id="info">
+                        <div class="date">August 21, 2025</div>
+
+                        <div id="postCountContainer">
+                            <a id="postCount" class="jumpDown" href="#discussion">
+                                9
+                            </a>
+                        </div>
+
+                        <div id="totalViews">1,185</div>
+                </div>
+                <div style="clear: left;"></div>
+                    <div class="social">
+
+        <a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fsicem365.com%2Fs%2F19857%2Fprojecting-baylors-defensive-depth-chart-questions-at-safety-depth-at-linebacker-more&amp;via=sicem365&amp;text=Projecting&#x2B;Baylor%27s&#x2B;Defensive&#x2B;Depth&#x2B;Chart%3A&#x2B;Questions&#x2B;at&#x2B;Safety%2C&#x2B;Depth&#x2B;at&#x2B;Linebacker%2C&#x2B;More" class="twitterLink socialLink">
+            Tweet
+        </a>
+
+        <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fsicem365.com%2Fs%2F19857%2Fprojecting-baylors-defensive-depth-chart-questions-at-safety-depth-at-linebacker-more" class="facebookLink socialLink">
+            Share
+        </a>
+        
+                            <a class="jumpDiscussion socialLink jumpDown f5-btn">Jump to Discussion</a>
+                    </div>
+
+                <div style="clear: both;"></div>
+                <hr />
+
+        <div class="standardBody" id="body" style="font-size: 14.00px">
+
+<p><a href="https://sicem365.com/subscribe"><span style="color:#f1c40f;"><strong><span style="background-color:#006600;">👉&nbsp;Fall Camp Access on SicEm365 for just&nbsp;$1</span></strong></span></a></p>
+
+<p><em>As the Bears inch closer to their&nbsp;season opener against Auburn on Friday, Aug. 29, at McLane Stadium, Grayson Grundhoefer and Levi Caraway try to predict Baylor&rsquo;s depth chart on defense.</em></p>
+
+<ul>
+	<li><a href="https://sicem365.com/s/19819/projecting-baylors-offensive-depth-chart-backup-qb-battle-solidified-skill-positions"><strong>Projecting Baylor&#39;s Offensive Depth Chart: Backup QB Battle &amp; Solidified Skill Positions?</strong></a></li>
+</ul>
+
+<hr />
+<h3>Defensive Line</h3>
+
+<ul>
+	<li><em>Defensive End:&nbsp;Cooper Lanz (RSr.) / Devonte Tezino (RJr.)</em></li>
+	<li><em>Nose Tackle: DK Kalu (RSo.)&nbsp;OR Adonis Friloux (RSr.) / Samu Taumanupepe (RSo.)</em></li>
+	<li><em>Defensive Tackle:&nbsp;Jackie Marshall (RSr.)&nbsp;/ Devonte Tezino (RJr.)</em></li>
+</ul>
+
+<p>Baylor has six defensive linemen heading into the 2025 season who are mostly proven commodities: Jackie Marshall, Cooper Lanz, Devonte Tezino, DK Kalu, Tulane transfer Adonis Friloux and Texas A&amp;M transfer&nbsp;Samu Taumanupepe.</p>
+
+<p>This group has a good blend of size, experience&nbsp;and athleticism.&nbsp;Here&rsquo;s a hot take:&nbsp;If everyone stays healthy, this will be Baylor&#39;s best defensive line since the 2019 team, yes, better than 2021, even with Apu Ika.</p>
+
+<p>The Bears&nbsp;only used six players on the defensive line last year, and it was fine. However, I think the second unit this year will play more snaps, which should help keep the starters from needing to play over 600 snaps. If needed, there should be some versatility as well, with Kalu, Marshall&nbsp;and Lanz all being able to play multiple spots along the defensive line.</p>
+
+<p>Last year, Jackie Marshall played 619 snaps, Treven Ma&rsquo;ae played 634 snaps&nbsp;and Elinus Noel III played 430 snaps. Those were the only three players&nbsp;who played more than 270 snaps a season ago. Besides that starting unit, only Cooper Lanz, Devonte Tezino&nbsp;and Trey Wilson played over 100 snaps.</p>
+
+<p>It would be great if one of Ronnie Mageo, Trent Thomas&nbsp;or Michigan transfer Alessandro Lorenzetti broke out this fall, but it won&rsquo;t be necessary so long as the first and second stringers&nbsp;do not sustain any significant&nbsp;injuries. The coaching staff&nbsp;really only needs this group to occasionally eat up minimal snaps.</p>
+
+<hr />
+<h3>Outside Linebackers</h3>
+
+<ul>
+	<li><em>Emar&rsquo;rion Winston (RJr.) OR&nbsp;Matthew Fobbs-White (Jr.) / Kyler Jordan (RJr.) OR&nbsp;Kamauryn Morgan (Fr.)</em></li>
+</ul>
+
+<p>Baylor&rsquo;s two outside linebacker transfers&nbsp;&mdash; Emar&rsquo;rion Winston (Oregon) and Matthew Fobbs-White (Tulane)&nbsp;&mdash; have received nothing but praise throughout fall camp. Head coach Dave Aranda called them both &ldquo;play-makers,&rdquo; and there&rsquo;s a belief that Winston and Fobbs-White&rsquo;s pass rush abilities will help the secondary in a big way this season.</p>
+
+<p>Sitting at 6-foot-4, 247 pounds, Winston will be the more every-down player, while Fobbs-White, at 6-foot-3, 235 pounds, will be the pash-rush specialist. There could be times when both are on the field at the same time. Outside of those two, veteran Kyler Jordan (RJr.) will mix in to help stop the run, and four-star freshman Kamauryn Morgan could potentially become a factor with his pass-rushing prowess.</p>
+
+<hr />
+<h3>Inside Linebackers</h3>
+
+<ul>
+	<li><i>WLB: Keaton Thomas (RJr.) / Phoenix Jackson (RSr.) /&nbsp;Kaleb Burns (Fr.)</i></li>
+	<li><i>MIKE: Kyland Reed (So.) OR Travion Barnes (Sr.) / KB Winston (Fr.)</i></li>
+</ul>
+
+<p>Keaton Thomas, the best linebacker in the Big 12 and a potential All-American candidate, will play the most snaps and spearhead the strong and talented&nbsp;linebacker group. Everything else behind Thomas is a bit uncertain, but that&rsquo;s not necessarily a bad thing, as the position is loaded&nbsp;with talent and versatility</p>
+
+<p>Fresno State transfer Phoenix Jackson is going to take over a ton of DIME snaps from last season that went to Caleb Parker and Rara Dilloworth, plus he will likely be the primary backup at WILL. Finding a way to get Jackson&nbsp;on the field a lot will be paramount.</p>
+
+<p>At MIKE, Kyland Reed and Florida International transfer Travion Barnes, the CUSA Defensive Player of the Year, continue to battle for the starting role. Right now, Reed will likely get&nbsp;the nod, but both will play a lot of snaps this season and could flip between who starts quite a bit.</p>
+
+<p>The top four of Thomas, Reed, Barnes&nbsp;and Jackson are as good a linebacker core as you will see in the Big 12, plus there are some young but extremely talented freshmen who are waiting in the wings: Kaleb Burns and KB Winston.</p>
+
+<hr />
+<h3>Cornerbacks</h3>
+
+<ul>
+	<li><em>Tevin Williams III (RSr.) / Caden Jenkins (Jr.)</em></li>
+	<li><em>LeVar Thornton (RSo.) / Calvin Simpson-Hunt (RSo.)</em></li>
+</ul>
+
+<p>This position seems to have been solidified since the spring, and the expectation is that there will be a steady rotation of Tevin Williams III, LeVar Thornton, Caden Jenkins&nbsp;and Ohio State transfer Calvin Simpson-Hunt, all seeing significant playing time.</p>
+
+<p>Williams has the potential to be &ldquo;elite,&rdquo; according to Aranda. Jenkins was a former Freshman All-American and is looking to bounce back from a sophomore slump. Simpson-Hunt was a&nbsp;big-time recruit and played on a National Championship team.&nbsp;There&rsquo;s a ton of upside here as first-year cornerbacks coach Paul Gonzales has a lot of talent to work with.</p>
+
+<hr />
+<h3>Safeties</h3>
+
+<ul>
+	<li><i>STAR: Carl Williams IV (Jr.) / Kendrick Simpkins (6Sr.) OR DJ Coleman (Jr.)</i></li>
+	<li><i>FS: Tyler Turner (RSo.) / Micah Gifford (Jr.) OR Jacob Redding (RSo.)</i></li>
+	<li><i>BS: Devyn Bobby (Sr.) / Kris Wokomah (RFr.)</i></li>
+</ul>
+
+<p>The biggest concern on the entire roster is at safety, and it&rsquo;s not really all that close. Devyn Bobby is a proven commodity,&nbsp;and&nbsp;a potential breakout final year could be in store for him.</p>
+
+<p>Aside from Bobby, there are question marks all over&nbsp;as Oregon transfer Tyler Turner will be the starter at field safety, but he has only played 114 snaps so far in his career. Behind him are a bunch of unknowns like Micah Gifford, Kris Wokomah&nbsp;and Jacob Redding. This is a pretty scary depth situation, even though there is some talent here.</p>
+
+<p>There was excitement that Aranda and the coaching staff had finally figured out the STAR position before last season, with Carl Williams IV making the move from cornerback. But Williams&nbsp;got injured almost immediately and never got back to 100%. This season, Aranda had&nbsp;mentioned that Williams was limited to 70%, as of just a couple of weeks ago.</p>
+
+<p>That leaves Kendrick Simpkins and DJ Coleman as the primary two options at STAR. Both have played a lot of football, but neither has proven they are complete players quite yet. In the scenario that Williams IV remains out or is still working his way back to full health, they would both play as Simpkins gives the coaching staff more from a havoc creation and playmaking standpoint, while Coleman gives the staff more in coverage.</p>
+
+
+
+
+
+
+        </div>
+
+
+
+        <div id="sideBar">
+
+                <div id="div-gad-Square-0-story" style="margin-bottom: 20px;"></div>
+
+                <div class="sideModule" id="sidemodule-featured-stories" style="display: none;">
+                    
+
+<div id="featured" class="module box">
+    <div class="header f5-bg">
+        <div class="feature-header">More Football</div>
+
+        <a class="see-all" href="/baylor-football">See All</a>
+
+    </div>
+    <div id="stories">
+            <div class="story border">
+                <div class="story-info-outer">
+                    <a href="/s/19740/get-full-access-to-sicem365-premium-during-fall-camp-for-just-1" class="ajax poster f5-bg-dark "  style="background-image: url(https://f5s001media.blob.core.windows.net/photos/0031277-jrre-320x180.jpg)">
+                        
+                        <span style="display:none;">Story Poster</span>
+
+
+
+                        <span style="display: none;">story photo</span>
+                    </a>
+                    <div class="storyInfo">
+
+                        <div class="publishedDate">
+                            0s ago
+                        </div>
+                        <div class="storyViews">
+                            <div class="featuredViews">5.2k</div>
+                        </div>
+                    </div>
+                </div>
+                <div class="storyLinkContainer">
+                    <a href="/s/19740/get-full-access-to-sicem365-premium-during-fall-camp-for-just-1"  class="ajax storyLink storyLinkNormal">
+                        Get Full Access to SicEm365 Premium During Fall Camp for Just $1
+                    </a>
+                    <div class="storyAuthor storyAuthorNormal storyAuthorWide">by Colt  Barber</div>
+                </div>
+            </div>
+            <div class="story border">
+                <div class="story-info-outer">
+                    <a href="/s/19859/bullish-bearish-a-closer-look-at-baylors-defensive-position-groups" class="ajax poster f5-bg-dark "  style="background-image: url(https://f5s001media.blob.core.windows.net/photos/0073431-cqdu-320x180.jpg)">
+                        
+                        <span style="display:none;">Story Poster</span>
+
+                            <div class="premium f5-premium-letter"></div>
+
+
+                        <span style="display: none;">story photo</span>
+                    </a>
+                    <div class="storyInfo">
+
+                        <div class="publishedDate">
+                            1h ago
+                        </div>
+                        <div class="storyViews">
+                            <div class="featuredViews">289</div>
+                        </div>
+                    </div>
+                </div>
+                <div class="storyLinkContainer">
+                    <a href="/s/19859/bullish-bearish-a-closer-look-at-baylors-defensive-position-groups"  class="ajax storyLink storyLinkNormal">
+                        Bullish &amp; Bearish: A Closer Look at Baylor&#x27;s Defensive Position Groups
+                    </a>
+                    <div class="storyAuthor storyAuthorNormal storyAuthorWide">by Colt  Barber</div>
+                </div>
+            </div>
+            <div class="story border">
+                <div class="story-info-outer">
+                    <a href="/s/19865/built-for-battle-the-linebackers-leading-baylors-charge-on-defense" class="ajax poster f5-bg-dark "  style="background-image: url(https://f5s001media.blob.core.windows.net/photos/0065225-svnc-320x180.jpg)">
+                        
+                        <span style="display:none;">Story Poster</span>
+
+                            <div class="premium f5-premium-letter"></div>
+
+
+                        <span style="display: none;">story photo</span>
+                    </a>
+                    <div class="storyInfo">
+
+                        <div class="publishedDate">
+                            4h ago
+                        </div>
+                        <div class="storyViews">
+                            <div class="featuredViews">304</div>
+                        </div>
+                    </div>
+                </div>
+                <div class="storyLinkContainer">
+                    <a href="/s/19865/built-for-battle-the-linebackers-leading-baylors-charge-on-defense"  class="ajax storyLink storyLinkNormal">
+                        Built for Battle: The Linebackers Leading Baylor&#x2019;s Charge on Defense
+                    </a>
+                    <div class="storyAuthor storyAuthorNormal storyAuthorWide">by Levi Caraway</div>
+                </div>
+            </div>
+            <div class="story border">
+                <div class="story-info-outer">
+                    <a href="/s/19864/predicting-the-big-12-season-bears-look-to-get-revenge-against-media-favorite-utah" class="ajax poster f5-bg-dark "  style="background-image: url(https://f5s001media.blob.core.windows.net/photos/0067736-muaf-320x180.jpg)">
+                        
+                        <span style="display:none;">Story Poster</span>
+
+
+
+                        <span style="display: none;">story photo</span>
+                    </a>
+                    <div class="storyInfo">
+
+                        <div class="publishedDate">
+                            4h ago
+                        </div>
+                        <div class="storyViews">
+                            <div class="featuredViews">977</div>
+                        </div>
+                    </div>
+                </div>
+                <div class="storyLinkContainer">
+                    <a href="/s/19864/predicting-the-big-12-season-bears-look-to-get-revenge-against-media-favorite-utah"  class="ajax storyLink storyLinkNormal">
+                        Predicting the Big 12 Season: Bears Look to Get Revenge Against Media-Favorite Utah
+                    </a>
+                    <div class="storyAuthor storyAuthorNormal storyAuthorWide">by Grayson Grundhoefer</div>
+                </div>
+            </div>
+            <div class="story border">
+                <div class="story-info-outer">
+                    <a href="/s/19820/whos-got-next-top-sleeper-picks-at-every-position-on-baylors-2025-roster" class="ajax poster f5-bg-dark "  style="background-image: url(https://f5s001media.blob.core.windows.net/photos/0065806-afub-320x180.jpg)">
+                        
+                        <span style="display:none;">Story Poster</span>
+
+                            <div class="premium f5-premium-letter"></div>
+
+
+                        <span style="display: none;">story photo</span>
+                    </a>
+                    <div class="storyInfo">
+
+                        <div class="publishedDate">
+                            1d ago
+                        </div>
+                        <div class="storyViews">
+                            <div class="featuredViews">1.9k</div>
+                        </div>
+                    </div>
+                </div>
+                <div class="storyLinkContainer">
+                    <a href="/s/19820/whos-got-next-top-sleeper-picks-at-every-position-on-baylors-2025-roster"  class="ajax storyLink storyLinkNormal">
+                        Who&#x27;s Got Next? Top Sleeper Picks at Every Position on Baylor&#x27;s 2025 Roster
+                    </a>
+                    <div class="storyAuthor storyAuthorNormal storyAuthorWide">by Grayson Grundhoefer</div>
+                </div>
+            </div>
+    </div>
+</div>
+
+                </div>
+
+                <div id="div-gpt-fixed-story" style="margin-top: 20px; display:none;"></div>
+                <div id="div-gad-Square-1-story" style="display:none; margin-top: 20px;"></div>
+
+        </div>
+
+            <div style="clear: both"></div>
+
+                    <div class="social">
+                        
+        <a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fsicem365.com%2Fs%2F19857%2Fprojecting-baylors-defensive-depth-chart-questions-at-safety-depth-at-linebacker-more&amp;via=sicem365&amp;text=Projecting&#x2B;Baylor%27s&#x2B;Defensive&#x2B;Depth&#x2B;Chart%3A&#x2B;Questions&#x2B;at&#x2B;Safety%2C&#x2B;Depth&#x2B;at&#x2B;Linebacker%2C&#x2B;More" class="twitterLink socialLink">
+            Tweet
+        </a>
+
+        <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fsicem365.com%2Fs%2F19857%2Fprojecting-baylors-defensive-depth-chart-questions-at-safety-depth-at-linebacker-more" class="facebookLink socialLink">
+            Share
+        </a>
+        
+                    </div>
+
+                <div id="tags">
+                    Tags:
+<a class="ajax f5-link" href="/t/26558/matthew-powledge">Matthew Powledge</a>, <a class="ajax f5-link" href="/t/16663/fall-camp">Fall Camp</a>, <a class="ajax f5-link" href="/t/26098/dave-aranda">Dave Aranda</a>, <a class="ajax f5-link" href="/t/46314/paul-gonzales">Paul Gonzales</a>, <a class="ajax f5-link" href="/t/49537/defensive-depth-chart">Defensive Depth Chart</a>, <a class="ajax f5-link" href="/t/5465/tevin-williams">Tevin Williams</a>, <a class="ajax f5-link" href="/t/23884/devyn-bobby">Devyn Bobby</a>, <a class="ajax f5-link" href="/t/27267/cooper-lanz">Cooper Lanz</a>, <a class="ajax f5-link" href="/t/27527/jackie-marshall">Jackie Marshall</a>, <a class="ajax f5-link" href="/t/28197/kyler-jordan">Kyler Jordan</a>, <a class="ajax f5-link" href="/t/28437/emarrion-winston">Emar&#x27;rion Winston</a>, <a class="ajax f5-link" href="/t/29469/devonte-tezino">Devonte Tezino</a>, <a class="ajax f5-link" href="/t/29895/dk-kalu">DK Kalu</a>, <a class="ajax f5-link" href="/t/30883/caden-jenkins">Caden Jenkins</a>, <a class="ajax f5-link" href="/t/31933/tyler-turner">Tyler Turner</a>, <a class="ajax f5-link" href="/t/32728/matthew-fobbs-white">Matthew Fobbs-White</a>, <a class="ajax f5-link" href="/t/32956/micah-gifford">Micah Gifford</a>, <a class="ajax f5-link" href="/t/33061/samu-taumanupepe">Samu Taumanupepe</a>, <a class="ajax f5-link" href="/t/33593/levar-thornton">LeVar Thornton</a>, <a class="ajax f5-link" href="/t/35044/kyland-reed">Kyland Reed</a>, <a class="ajax f5-link" href="/t/36895/kamauryn-morgan">Kamauryn Morgan</a>, <a class="ajax f5-link" href="/t/40386/jacob-redding">Jacob Redding</a>, <a class="ajax f5-link" href="/t/41069/kaleb-burns">Kaleb Burns</a>, <a class="ajax f5-link" href="/t/41283/keaton-thomas">Keaton Thomas</a>, <a class="ajax f5-link" href="/t/46269/phoenix-jackson">Phoenix Jackson</a>, <a class="ajax f5-link" href="/t/46271/travion-barnes">Travion Barnes</a>, <a class="ajax f5-link" href="/t/47707/calvin-simpson-hunt">Calvin Simpson-Hunt</a>, <a class="ajax f5-link" href="/t/49418/adonis-friloux">Adonis Friloux</a>, <a class="ajax f5-link" href="/t/213/football">Football</a>, <a class="ajax f5-link" href="/t/17/baylor">Baylor</a>, <a class="ajax f5-link" href="/t/129/oregon">Oregon</a>, <a class="ajax f5-link" href="/t/176/tulane">Tulane</a>, <a class="ajax f5-link" href="/t/37939/2025">2025</a>                </div>
+        </div>
+    </div>
+
+    <div style="clear: both"></div>
+
+    <div id="discussion">
+            <div class="centerForums">
+                <div id="forums">
+                    <div id="top"></div>
+                    <div id="forumsList" class="storyForumsList" style="display: none">
+                        
+
+
+
+        <div class="forumsListBreak">SicEm365 Premium Forums</div>
+    <a class="ajax forumsListItem" href="/forums/1">
+        SicEm365 Premium Insider
+
+    </a>
+    <a class="ajax forumsListItem" href="/forums/19">
+        The Bear Cave
+
+    </a>
+        <div class="forumsListBreak">Waco Forums</div>
+    <a class="ajax forumsListItem" href="/forums/27">
+        Waco
+
+    </a>
+        <div class="forumsListBreak">Baylor Sports Forums</div>
+    <a class="ajax forumsListItem" href="/forums/2">
+        Football
+
+    </a>
+    <a class="ajax forumsListItem" href="/forums/3">
+        Men&#x27;s Basketball
+
+    </a>
+    <a class="ajax forumsListItem" href="/forums/4">
+        Women&#x27;s Basketball
+
+    </a>
+    <a class="ajax forumsListItem" href="/forums/5">
+        Baseball
+
+    </a>
+    <a class="ajax forumsListItem" href="/forums/10">
+        Ticket Swap &amp; Tailgating
+
+    </a>
+    <a class="ajax forumsListItem" href="/forums/6">
+        Other Sports
+
+    </a>
+        <div class="forumsListBreak">Baylor Community Forums</div>
+    <a class="ajax forumsListItem" href="/forums/14">
+        Cory Case Chit Chat
+
+    </a>
+    <a class="ajax forumsListItem" href="/forums/7">
+        Eric Treszoks Politics, Religion, Etc. 
+
+    </a>
+    <a class="ajax forumsListItem" href="/forums/18">
+        Recruiting (Food, Drinks, Travel)
+
+    </a>
+    <a class="ajax forumsListItem" href="/forums/8">
+        Technical Support
+
+    </a>
+
+<script>
+    forums.bindForumFavorites();
+</script>
+
+                    </div>
+
+                    <div id="current">
+                        <a id="switchForums" class="switchGrey"></a>
+
+                                <a id="forumTitle" class="ajax" href="/forums/1">SicEm365 Premium Insider</a>
+                                <a href="https://gxgelite.com" target="_blank">
+                                    <img src="https://f5s001media.blob.core.windows.net/web/sponsors/forums/auto/forumsponsor_681a1b7d.png" class="sponsor" alt="Sponsor" />
+                                </a>
+                                <div id="sponsorIntro">Sponsored by</div>
+                    </div>
+
+                    <div id="posts" class="box">
+                        
+<div id="header" data-loadinnerads="false">
+        <a href="" class="new f5-btn maroonButton left ">Post Reply</a>
+
+        <div class="customCheck">
+            <input class="filterCheck" data-filter="staff" id="staff" name="TopicModel.staff" type="checkbox" value="true" /><input name="TopicModel.staff" type="hidden" value="false" />
+            <label class="checkInput" for="staff"></label>
+            <div class="checkBar"></div>
+            <span class="filterLabel">Staff Only</span>
+        </div>
+
+
+    <div class="pager">
+
+
+        <div class="currentPage  currentFirst currentLast">1 of 1</div>
+        <div id="smallPagerSelect" class="clickMenu squareClickMenu" style="display: none">
+                    <a href="/s/19857/projecting-baylors-defensive-depth-chart-questions-at-safety-depth-at-linebacker-more/1/0" class="ajax inner pageMenuItem" data-forumID="1" data-topicID="153114" data-action="/forums/_topicsinner" data-filter1="" data-filter2="" data-storyID="19857" data-page="0">Last</a>
+                    <a href="/s/19857/projecting-baylors-defensive-depth-chart-questions-at-safety-depth-at-linebacker-more/1/1" class="ajax inner pageMenuItem" data-forumID="1" data-topicID="153114" data-action="/forums/_topicsinner" data-filter1="" data-filter2="" data-storyID="19857" data-page="1">1</a>
+        </div>
+
+
+    </div>
+</div>
+
+
+<div id="topicTitleContainer">
+    <div class="topicActions">
+                <button class="btn followButton" rel="6">Bookmark Topic</button>
+    </div>
+
+
+    <div id="topicTitle" class="">
+        <h2 class="topic-title not-watching">Projecting Baylor's Defensive Depth Chart: Questions at Safety, Depth at Linebacker, More</h2>
+        <div class="topicViews-inner">
+            739 Views |
+            9 Replies |
+            Last: <a href="/forums/1/topics/153114/last" class="last-post-link">12 min ago by graysongrundhoefer</a>
+        </div>
+    </div>
+</div>
+
+<div id="flagMenu" class="clickMenu" style="display: none;">
+</div>
+
+
+<div id="postsPage">
+            <div id="4229184" class="post vanillaPost u12974 tallPost" data-id="4229184" data-uid="12974" data-active="true" data-self="false" data-replycount="1">
+                <div class="userInfo white">
+                            <div class="postIcon fIcon icon-avatar">
+                                <img class="icon-avatar-img" src="https://f5s-img.s3.amazonaws.com/001/6c/7d/6c7d38f7fe163a50d88653e85b5312d73910afa8_2457064_u12974_2.jpg" onerror="this.onerror=null;forums.photoError(this)" />
+                            </div>
+                        <a class="postUsername">alphaneedle</a>
+                        <div class="user-menu ">
+                            <div class="carrot"></div>
+
+                            <div class="subscribe f5-bg">
+                                <div class="subscribe-carrot"></div>
+
+                                <div class="user-menu-overflow">
+                                    <div class="message">
+                                        You must be a <span class="level"></span> subscriber to <span class="feature"></span>.
+                                    </div>
+                                    <a class="f5-bg-hover-color" href="/account/subscription">Subscribe Now</a>
+                                </div>
+                            </div>
+
+                            <div class="user-menu-overflow">
+                                <div class="user-info">
+                                        <img class="photo" alt="profile photo" src="https://f5s-img.s3.amazonaws.com/001/6c/7d/6c7d38f7fe163a50d88653e85b5312d73910afa8_2457064_u12974_2.jpg" onerror="this.src='https://f5s.blob.core.windows.net/web/themes/images/mugshot-empty.png'" />
+
+                                    <div class="created">
+                                        <strong>Joined:</strong>
+                                        Aug 3, 2017
+                                    </div>
+                                    <div class="posts">
+                                            <strong>Posts:</strong>
+4,404                                    </div>
+                                </div>
+                                <div class="user-links">
+
+                                    <a class="user-link profile ajax" href="/account/profile/12974">User Profile</a>
+
+                                            <a class="user-link pm" href="/messages/send?u=alphaneedle">Private Message</a>
+
+                                        <a class="user-link ignore " data-action="/forums/_ignoreuser" data-id="12974" data-feature="ignore users">Ignore User</a>
+                                        <a class="user-link unignore" data-action="/forums/_stopignoring" data-id="12974">Stop Ignoring</a>
+
+
+                                </div>
+
+                                <div class="ignore-info">
+                                    How long do you want to ignore this user?
+                                </div>
+                                <div class="ignore-links">
+                                    <a class="ignore-link" data-length="24" data-id="12974" data-action="/forums/_ignoreuser">24 hours</a>
+                                    <a class="ignore-link" data-length="168" data-id="12974" data-action="/forums/_ignoreuser">One week</a>
+                                    <a class="ignore-link" data-id="12974" data-action="/forums/_ignoreuser">Permanently</a>
+                                    <a class="ignore-link cancel">Cancel</a>
+                                </div>
+                            </div>
+                        </div>
+                    
+
+                    <div class="newPostDate">
+
+                        <a class="dateLink ajax" href="/forums/1/topics/153114/replies/4229184" rel="nofollow" data-hover="Link to post">
+7:06a                        </a>
+                    </div>
+
+                        <div class="userBadges">
+                                <div class="userTag userLevel ul7" data-hover="Hall of Famer"></div>
+                            
+
+
+
+
+
+                                    <div class="userBadge ub2" data-hover="$10-100 Contributor"></div>
+
+                                <div class="userStars stars-premium f5-premium-letter" data-hover="Premium Subscriber"></div>
+
+                        </div>
+                </div>
+
+                    <div class="postContent ">
+                        <div class="postBody ">
+Do you think Kalu could be moved to DE/DT if there is an injury to Marshall or Lanz?                                    <div class="signature">Adopt A Bear 2025
+<br />
+<br />#65 Sean Thompkins - OT
+<br />
+<br /></div>
+</b>                        </div>
+                            <div class="postFooter">
+                                <div class="postActions">
+                                    <a href=""
+                                       rel="nofollow"
+                                       class=" postAction postReply"
+                                       data-hover="Reply"
+                                       data-hover-timeout="700"
+                                       data-action="/forums/1/153114/reply/4229184"><span style="display:none">Reply</span></a>
+                                    <a href=""
+                                       rel="nofollow"
+                                       class=" postAction postQuote"
+                                       data-hover="Quote and reply"
+                                       data-hover-timeout="700"
+                                       data-action="/forums/1/153114/reply/4229184?isQuote=true"><span style="display:none">Quote</span></a>
+
+                                            <a class="starLink postAction postGreyStar" data-hover-timeout="700" data-hover="Star post"><span style="display:none">Star</span></a>
+                                        <div class="starCount" style="display: none">0</div>
+                                </div>
+
+                                <div class="postControls">
+                                    <div class="edits">
+                                    </div>
+
+
+
+
+                                        <a class="postControl postFlag flag" data-hover="Flag post" data-cleared="false">
+                                        </a>
+                                </div>
+                            </div>
+
+                    </div>
+            </div>
+            <div id="4229190" class="post staffPost u3108 tallPost" data-id="4229190" data-uid="3108" data-active="true" data-self="false" data-replycount="0">
+                <div class="userInfo white">
+                            <div class="postIcon fIcon icon-avatar">
+                                <img class="icon-avatar-img" src="https://f5s001media.blob.core.windows.net/photos/0050426-blbj-360x360.jpg" onerror="this.onerror=null;forums.photoError(this)" />
+                            </div>
+                        <a class="postUsername">graysongrundhoefer</a>
+                        <div class="user-menu ">
+                            <div class="carrot"></div>
+
+                            <div class="subscribe f5-bg">
+                                <div class="subscribe-carrot"></div>
+
+                                <div class="user-menu-overflow">
+                                    <div class="message">
+                                        You must be a <span class="level"></span> subscriber to <span class="feature"></span>.
+                                    </div>
+                                    <a class="f5-bg-hover-color" href="/account/subscription">Subscribe Now</a>
+                                </div>
+                            </div>
+
+                            <div class="user-menu-overflow">
+                                <div class="user-info">
+                                        <img class="photo" alt="profile photo" src="https://f5s001media.blob.core.windows.net/photos/0050426-blbj-360x360.jpg" onerror="this.src='https://f5s.blob.core.windows.net/web/themes/images/mugshot-empty.png'" />
+
+                                    <div class="created">
+                                        <strong>Joined:</strong>
+                                        Dec 8, 2016
+                                    </div>
+                                    <div class="posts">
+                                            <strong>Posts:</strong>
+45,400                                    </div>
+                                </div>
+                                <div class="user-links">
+
+                                    <a class="user-link profile ajax" href="/account/profile/3108">User Profile</a>
+
+                                            <a class="user-link pm" href="/messages/send?u=graysongrundhoefer">Private Message</a>
+
+
+
+                                </div>
+
+                                <div class="ignore-info">
+                                    How long do you want to ignore this user?
+                                </div>
+                                <div class="ignore-links">
+                                    <a class="ignore-link" data-length="24" data-id="3108" data-action="/forums/_ignoreuser">24 hours</a>
+                                    <a class="ignore-link" data-length="168" data-id="3108" data-action="/forums/_ignoreuser">One week</a>
+                                    <a class="ignore-link" data-id="3108" data-action="/forums/_ignoreuser">Permanently</a>
+                                    <a class="ignore-link cancel">Cancel</a>
+                                </div>
+                            </div>
+                        </div>
+                    
+
+                    <div class="newPostDate">
+
+                            <a href="/forums/1/topics/153114/replies/4229184"
+                               class="reply replyToOther"
+                               data-hover="Jump to post"
+                               data-id="4229184">In reply to alphaneedle</a>
+&#8226;                        <a class="dateLink ajax" href="/forums/1/topics/153114/replies/4229190" rel="nofollow" data-hover="Link to post">
+7:31a                        </a>
+                    </div>
+
+                        <div class="userBadges">
+                                <div class="userTag staffTag" data-hover="SicEm365 Staff">Staff</div>
+                            
+
+
+
+
+
+
+
+                        </div>
+                </div>
+
+                    <div class="postContent ">
+                        <div class="postBody ">
+<blockquote><div class="name-said">alphaneedle said:</div><hr>Do you think Kalu could be moved to DE/DT if there is an injury to Marshall or Lanz?<hr></blockquote> I think he could play some there, yes.</b>                        </div>
+                            <div class="postFooter">
+                                <div class="bluePostActions">
+                                    <a href=""
+                                       rel="nofollow"
+                                       class=" postAction postReply"
+                                       data-hover="Reply"
+                                       data-hover-timeout="700"
+                                       data-action="/forums/1/153114/reply/4229190"><span style="display:none">Reply</span></a>
+                                    <a href=""
+                                       rel="nofollow"
+                                       class=" postAction postQuote"
+                                       data-hover="Quote and reply"
+                                       data-hover-timeout="700"
+                                       data-action="/forums/1/153114/reply/4229190?isQuote=true"><span style="display:none">Quote</span></a>
+
+                                            <a class="postAction nextStaff" data-hover="Next staff post" data-hover-timeout="700"><span style="display:none">Next Staff</span></a>
+                                </div>
+
+                                <div class="bluePostControls">
+                                    <div class="edits">
+                                    </div>
+
+
+
+
+                                </div>
+                            </div>
+
+                    </div>
+            </div>
+            <div id="4229240" class="post vanillaPost u38740 tallPost" data-id="4229240" data-uid="38740" data-active="true" data-self="false" data-replycount="1">
+                <div class="userInfo white">
+                            <div class="postIcon fIcon icon-avatar">
+                                <img class="icon-avatar-img" src="https://f5s.blob.core.windows.net/web/themes/images/mugshot-empty.png" onerror="this.onerror=null;forums.photoError(this)" />
+                            </div>
+                        <a class="postUsername">4thandgoal</a>
+                        <div class="user-menu ">
+                            <div class="carrot"></div>
+
+                            <div class="subscribe f5-bg">
+                                <div class="subscribe-carrot"></div>
+
+                                <div class="user-menu-overflow">
+                                    <div class="message">
+                                        You must be a <span class="level"></span> subscriber to <span class="feature"></span>.
+                                    </div>
+                                    <a class="f5-bg-hover-color" href="/account/subscription">Subscribe Now</a>
+                                </div>
+                            </div>
+
+                            <div class="user-menu-overflow">
+                                <div class="user-info">
+                                        <img class="photo" alt="profile photo" src="https://f5s.blob.core.windows.net/web/themes/images/mugshot-empty.png" onerror="this.src='https://f5s.blob.core.windows.net/web/themes/images/mugshot-empty.png'" />
+
+                                    <div class="created">
+                                        <strong>Joined:</strong>
+                                        Apr 8, 2024
+                                    </div>
+                                    <div class="posts">
+                                            <strong>Posts:</strong>
+967                                    </div>
+                                </div>
+                                <div class="user-links">
+
+                                    <a class="user-link profile ajax" href="/account/profile/38740">User Profile</a>
+
+                                            <a class="user-link pm" href="/messages/send?u=4thandgoal">Private Message</a>
+
+                                        <a class="user-link ignore " data-action="/forums/_ignoreuser" data-id="38740" data-feature="ignore users">Ignore User</a>
+                                        <a class="user-link unignore" data-action="/forums/_stopignoring" data-id="38740">Stop Ignoring</a>
+
+
+                                </div>
+
+                                <div class="ignore-info">
+                                    How long do you want to ignore this user?
+                                </div>
+                                <div class="ignore-links">
+                                    <a class="ignore-link" data-length="24" data-id="38740" data-action="/forums/_ignoreuser">24 hours</a>
+                                    <a class="ignore-link" data-length="168" data-id="38740" data-action="/forums/_ignoreuser">One week</a>
+                                    <a class="ignore-link" data-id="38740" data-action="/forums/_ignoreuser">Permanently</a>
+                                    <a class="ignore-link cancel">Cancel</a>
+                                </div>
+                            </div>
+                        </div>
+                    
+
+                    <div class="newPostDate">
+
+                        <a class="dateLink ajax" href="/forums/1/topics/153114/replies/4229240" rel="nofollow" data-hover="Link to post">
+9:05a                        </a>
+                    </div>
+
+                        <div class="userBadges">
+                                <div class="userTag userLevel ul4" data-hover="Veteran"></div>
+                            
+
+
+
+
+
+
+                                <div class="userStars stars-premium f5-premium-letter" data-hover="Premium Subscriber"></div>
+
+                        </div>
+                </div>
+
+                    <div class="postContent ">
+                        <div class="postBody ">
+Could you see one of Williams or Simpkins moving to the other starting safety spot opposite of Bobby? Or are they both sticking at STAR? I still feel like the best potential is Coleman/Simpkins and Onu at STAR with Williams playing safety next to Bobby.<br /><br />I'm eager to see Turner, but could definitely see him still being a year away.                                    <div class="signature">2025 Adopt-a-Bear: Caden Knighten
+<br />
+<br />Rush Yards: | Touchdowns: | Receptions: | Rec. Yards: | Rec. Touchdowns:</div>
+</b>                        </div>
+                            <div class="postFooter">
+                                <div class="postActions">
+                                    <a href=""
+                                       rel="nofollow"
+                                       class=" postAction postReply"
+                                       data-hover="Reply"
+                                       data-hover-timeout="700"
+                                       data-action="/forums/1/153114/reply/4229240"><span style="display:none">Reply</span></a>
+                                    <a href=""
+                                       rel="nofollow"
+                                       class=" postAction postQuote"
+                                       data-hover="Quote and reply"
+                                       data-hover-timeout="700"
+                                       data-action="/forums/1/153114/reply/4229240?isQuote=true"><span style="display:none">Quote</span></a>
+
+                                            <a class="starLink postAction postGreyStar" data-hover-timeout="700" data-hover="Star post"><span style="display:none">Star</span></a>
+                                        <div class="starCount" style="display: none">0</div>
+                                </div>
+
+                                <div class="postControls">
+                                    <div class="edits">
+                                                1 edit
+                                    </div>
+
+
+
+
+                                        <a class="postControl postFlag flag" data-hover="Flag post" data-cleared="false">
+                                        </a>
+                                </div>
+                            </div>
+
+                    </div>
+            </div>
+            <div id="4229250" class="post staffPost u3108 tallPost" data-id="4229250" data-uid="3108" data-active="true" data-self="false" data-replycount="1">
+                <div class="userInfo white">
+                            <div class="postIcon fIcon icon-avatar">
+                                <img class="icon-avatar-img" src="https://f5s001media.blob.core.windows.net/photos/0050426-blbj-360x360.jpg" onerror="this.onerror=null;forums.photoError(this)" />
+                            </div>
+                        <a class="postUsername">graysongrundhoefer</a>
+                        <div class="user-menu ">
+                            <div class="carrot"></div>
+
+                            <div class="subscribe f5-bg">
+                                <div class="subscribe-carrot"></div>
+
+                                <div class="user-menu-overflow">
+                                    <div class="message">
+                                        You must be a <span class="level"></span> subscriber to <span class="feature"></span>.
+                                    </div>
+                                    <a class="f5-bg-hover-color" href="/account/subscription">Subscribe Now</a>
+                                </div>
+                            </div>
+
+                            <div class="user-menu-overflow">
+                                <div class="user-info">
+                                        <img class="photo" alt="profile photo" src="https://f5s001media.blob.core.windows.net/photos/0050426-blbj-360x360.jpg" onerror="this.src='https://f5s.blob.core.windows.net/web/themes/images/mugshot-empty.png'" />
+
+                                    <div class="created">
+                                        <strong>Joined:</strong>
+                                        Dec 8, 2016
+                                    </div>
+                                    <div class="posts">
+                                            <strong>Posts:</strong>
+45,400                                    </div>
+                                </div>
+                                <div class="user-links">
+
+                                    <a class="user-link profile ajax" href="/account/profile/3108">User Profile</a>
+
+                                            <a class="user-link pm" href="/messages/send?u=graysongrundhoefer">Private Message</a>
+
+
+
+                                </div>
+
+                                <div class="ignore-info">
+                                    How long do you want to ignore this user?
+                                </div>
+                                <div class="ignore-links">
+                                    <a class="ignore-link" data-length="24" data-id="3108" data-action="/forums/_ignoreuser">24 hours</a>
+                                    <a class="ignore-link" data-length="168" data-id="3108" data-action="/forums/_ignoreuser">One week</a>
+                                    <a class="ignore-link" data-id="3108" data-action="/forums/_ignoreuser">Permanently</a>
+                                    <a class="ignore-link cancel">Cancel</a>
+                                </div>
+                            </div>
+                        </div>
+                    
+
+                    <div class="newPostDate">
+
+                            <a href="/forums/1/topics/153114/replies/4229240"
+                               class="reply replyToOther"
+                               data-hover="Jump to post"
+                               data-id="4229240">In reply to 4thandgoal</a>
+&#8226;                        <a class="dateLink ajax" href="/forums/1/topics/153114/replies/4229250" rel="nofollow" data-hover="Link to post">
+9:22a                        </a>
+                    </div>
+
+                        <div class="userBadges">
+                                <div class="userTag staffTag" data-hover="SicEm365 Staff">Staff</div>
+                            
+
+
+
+
+
+
+
+                        </div>
+                </div>
+
+                    <div class="postContent ">
+                        <div class="postBody ">
+<blockquote><div class="name-said">4thandgoal said:</div><hr>Could you see one of Williams or Simpkins moving to the other starting safety spot opposite of Bobby? Or are they both sticking at STAR? I still feel like the best potential is Coleman/Simpkins and Onu at STAR with Williams playing safety next to Bobby.<br /><br />I'm eager to see Turner, but could definitely see him still being a year away.<hr></blockquote><br />Williams is the only one I see moving back to field safety at any point this season.<br /><br />Simpkins isn't good enough in coverage to play back there consistently and Coleman just made the full time move to STAR so I doubt they would want to stunt his progression.<br /><br />We will see on Turner. Athletically he is an upgrade from last season so the thing to watch will be positioning with his limited experience. I really like the prospect though so we will see.</b>                        </div>
+                            <div class="postFooter">
+                                <div class="bluePostActions">
+                                    <a href=""
+                                       rel="nofollow"
+                                       class=" postAction postReply"
+                                       data-hover="Reply"
+                                       data-hover-timeout="700"
+                                       data-action="/forums/1/153114/reply/4229250"><span style="display:none">Reply</span></a>
+                                    <a href=""
+                                       rel="nofollow"
+                                       class=" postAction postQuote"
+                                       data-hover="Quote and reply"
+                                       data-hover-timeout="700"
+                                       data-action="/forums/1/153114/reply/4229250?isQuote=true"><span style="display:none">Quote</span></a>
+
+                                            <a class="postAction nextStaff" data-hover="Next staff post" data-hover-timeout="700"><span style="display:none">Next Staff</span></a>
+                                </div>
+
+                                <div class="bluePostControls">
+                                    <div class="edits">
+                                    </div>
+
+
+
+
+                                </div>
+                            </div>
+
+                    </div>
+            </div>
+            <div id="4229255" class="post vanillaPost u38740 tallPost" data-id="4229255" data-uid="38740" data-active="true" data-self="false" data-replycount="1">
+                <div class="userInfo white">
+                            <div class="postIcon fIcon icon-avatar">
+                                <img class="icon-avatar-img" src="https://f5s.blob.core.windows.net/web/themes/images/mugshot-empty.png" onerror="this.onerror=null;forums.photoError(this)" />
+                            </div>
+                        <a class="postUsername">4thandgoal</a>
+                        <div class="user-menu ">
+                            <div class="carrot"></div>
+
+                            <div class="subscribe f5-bg">
+                                <div class="subscribe-carrot"></div>
+
+                                <div class="user-menu-overflow">
+                                    <div class="message">
+                                        You must be a <span class="level"></span> subscriber to <span class="feature"></span>.
+                                    </div>
+                                    <a class="f5-bg-hover-color" href="/account/subscription">Subscribe Now</a>
+                                </div>
+                            </div>
+
+                            <div class="user-menu-overflow">
+                                <div class="user-info">
+                                        <img class="photo" alt="profile photo" src="https://f5s.blob.core.windows.net/web/themes/images/mugshot-empty.png" onerror="this.src='https://f5s.blob.core.windows.net/web/themes/images/mugshot-empty.png'" />
+
+                                    <div class="created">
+                                        <strong>Joined:</strong>
+                                        Apr 8, 2024
+                                    </div>
+                                    <div class="posts">
+                                            <strong>Posts:</strong>
+967                                    </div>
+                                </div>
+                                <div class="user-links">
+
+                                    <a class="user-link profile ajax" href="/account/profile/38740">User Profile</a>
+
+                                            <a class="user-link pm" href="/messages/send?u=4thandgoal">Private Message</a>
+
+                                        <a class="user-link ignore " data-action="/forums/_ignoreuser" data-id="38740" data-feature="ignore users">Ignore User</a>
+                                        <a class="user-link unignore" data-action="/forums/_stopignoring" data-id="38740">Stop Ignoring</a>
+
+
+                                </div>
+
+                                <div class="ignore-info">
+                                    How long do you want to ignore this user?
+                                </div>
+                                <div class="ignore-links">
+                                    <a class="ignore-link" data-length="24" data-id="38740" data-action="/forums/_ignoreuser">24 hours</a>
+                                    <a class="ignore-link" data-length="168" data-id="38740" data-action="/forums/_ignoreuser">One week</a>
+                                    <a class="ignore-link" data-id="38740" data-action="/forums/_ignoreuser">Permanently</a>
+                                    <a class="ignore-link cancel">Cancel</a>
+                                </div>
+                            </div>
+                        </div>
+                    
+
+                    <div class="newPostDate">
+
+                            <a href="/forums/1/topics/153114/replies/4229250"
+                               class="reply replyToOther"
+                               data-hover="Jump to post"
+                               data-id="4229250">In reply to graysongrundhoefer</a>
+&#8226;                        <a class="dateLink ajax" href="/forums/1/topics/153114/replies/4229255" rel="nofollow" data-hover="Link to post">
+9:32a                        </a>
+                    </div>
+
+                        <div class="userBadges">
+                                <div class="userTag userLevel ul4" data-hover="Veteran"></div>
+                            
+
+
+
+
+
+
+                                <div class="userStars stars-premium f5-premium-letter" data-hover="Premium Subscriber"></div>
+
+                        </div>
+                </div>
+
+                    <div class="postContent ">
+                        <div class="postBody ">
+<blockquote><div class="name-said">graysongrundhoefer said:</div><hr><blockquote><div class="name-said">4thandgoal said:</div><hr>Could you see one of Williams or Simpkins moving to the other starting safety spot opposite of Bobby? Or are they both sticking at STAR? I still feel like the best potential is Coleman/Simpkins and Onu at STAR with Williams playing safety next to Bobby.<br /><br />I'm eager to see Turner, but could definitely see him still being a year away.<hr></blockquote><br />Williams is the only one I see moving back to field safety at any point this season.<br /><br />Simpkins isn't good enough in coverage to play back there consistently and Coleman just made the full time move to STAR so I doubt they would want to stunt his progression.<br /><br />We will see on Turner. Athletically he is an upgrade from last season so the thing to watch will be positioning with his limited experience. I really like the prospect though so we will see.<hr></blockquote><br /><br />Yeah I figured Simpkins was more a guy who should be playing closer to the LOS. Could be completely wrong here but with Williams' injury history I also think him being closer to the LOS and more physical contact could leave him more injured throughout the year. And I just think his speed is needed further back.                                    <div class="signature">2025 Adopt-a-Bear: Caden Knighten
+<br />
+<br />Rush Yards: | Touchdowns: | Receptions: | Rec. Yards: | Rec. Touchdowns:</div>
+</b>                        </div>
+                            <div class="postFooter">
+                                <div class="postActions">
+                                    <a href=""
+                                       rel="nofollow"
+                                       class=" postAction postReply"
+                                       data-hover="Reply"
+                                       data-hover-timeout="700"
+                                       data-action="/forums/1/153114/reply/4229255"><span style="display:none">Reply</span></a>
+                                    <a href=""
+                                       rel="nofollow"
+                                       class=" postAction postQuote"
+                                       data-hover="Quote and reply"
+                                       data-hover-timeout="700"
+                                       data-action="/forums/1/153114/reply/4229255?isQuote=true"><span style="display:none">Quote</span></a>
+
+                                            <a class="starLink postAction postGreyStar" data-hover-timeout="700" data-hover="Star post"><span style="display:none">Star</span></a>
+                                        <div class="starCount" style="display: block">2</div>
+                                </div>
+
+                                <div class="postControls">
+                                    <div class="edits">
+                                    </div>
+
+
+
+
+                                        <a class="postControl postFlag flag" data-hover="Flag post" data-cleared="false">
+                                        </a>
+                                </div>
+                            </div>
+
+                    </div>
+            </div>
+            <div id="4229261" class="post staffPost u3108 tallPost" data-id="4229261" data-uid="3108" data-active="true" data-self="false" data-replycount="1">
+                <div class="userInfo white">
+                            <div class="postIcon fIcon icon-avatar">
+                                <img class="icon-avatar-img" src="https://f5s001media.blob.core.windows.net/photos/0050426-blbj-360x360.jpg" onerror="this.onerror=null;forums.photoError(this)" />
+                            </div>
+                        <a class="postUsername">graysongrundhoefer</a>
+                        <div class="user-menu ">
+                            <div class="carrot"></div>
+
+                            <div class="subscribe f5-bg">
+                                <div class="subscribe-carrot"></div>
+
+                                <div class="user-menu-overflow">
+                                    <div class="message">
+                                        You must be a <span class="level"></span> subscriber to <span class="feature"></span>.
+                                    </div>
+                                    <a class="f5-bg-hover-color" href="/account/subscription">Subscribe Now</a>
+                                </div>
+                            </div>
+
+                            <div class="user-menu-overflow">
+                                <div class="user-info">
+                                        <img class="photo" alt="profile photo" src="https://f5s001media.blob.core.windows.net/photos/0050426-blbj-360x360.jpg" onerror="this.src='https://f5s.blob.core.windows.net/web/themes/images/mugshot-empty.png'" />
+
+                                    <div class="created">
+                                        <strong>Joined:</strong>
+                                        Dec 8, 2016
+                                    </div>
+                                    <div class="posts">
+                                            <strong>Posts:</strong>
+45,400                                    </div>
+                                </div>
+                                <div class="user-links">
+
+                                    <a class="user-link profile ajax" href="/account/profile/3108">User Profile</a>
+
+                                            <a class="user-link pm" href="/messages/send?u=graysongrundhoefer">Private Message</a>
+
+
+
+                                </div>
+
+                                <div class="ignore-info">
+                                    How long do you want to ignore this user?
+                                </div>
+                                <div class="ignore-links">
+                                    <a class="ignore-link" data-length="24" data-id="3108" data-action="/forums/_ignoreuser">24 hours</a>
+                                    <a class="ignore-link" data-length="168" data-id="3108" data-action="/forums/_ignoreuser">One week</a>
+                                    <a class="ignore-link" data-id="3108" data-action="/forums/_ignoreuser">Permanently</a>
+                                    <a class="ignore-link cancel">Cancel</a>
+                                </div>
+                            </div>
+                        </div>
+                    
+
+                    <div class="newPostDate">
+
+                            <a href="/forums/1/topics/153114/replies/4229255"
+                               class="reply replyToOther"
+                               data-hover="Jump to post"
+                               data-id="4229255">In reply to 4thandgoal</a>
+&#8226;                        <a class="dateLink ajax" href="/forums/1/topics/153114/replies/4229261" rel="nofollow" data-hover="Link to post">
+9:45a                        </a>
+                    </div>
+
+                        <div class="userBadges">
+                                <div class="userTag staffTag" data-hover="SicEm365 Staff">Staff</div>
+                            
+
+
+
+
+
+
+
+                        </div>
+                </div>
+
+                    <div class="postContent ">
+                        <div class="postBody ">
+<blockquote><div class="name-said">4thandgoal said:</div><hr><blockquote><div class="name-said">graysongrundhoefer said:</div><hr><blockquote><div class="name-said">4thandgoal said:</div><hr>Could you see one of Williams or Simpkins moving to the other starting safety spot opposite of Bobby? Or are they both sticking at STAR? I still feel like the best potential is Coleman/Simpkins and Onu at STAR with Williams playing safety next to Bobby.<br /><br />I'm eager to see Turner, but could definitely see him still being a year away.<hr></blockquote><br />Williams is the only one I see moving back to field safety at any point this season.<br /><br />Simpkins isn't good enough in coverage to play back there consistently and Coleman just made the full time move to STAR so I doubt they would want to stunt his progression.<br /><br />We will see on Turner. Athletically he is an upgrade from last season so the thing to watch will be positioning with his limited experience. I really like the prospect though so we will see.<hr></blockquote><br /><br />Yeah I figured Simpkins was more a guy who should be playing closer to the LOS. Could be completely wrong here but with Williams' injury history I also think him being closer to the LOS and more physical contact could leave him more injured throughout the year. And I just think his speed is needed further back.<hr></blockquote><br />I think Baylor is trying to get the best three on the field which would be Williams, Turner and Bobby at this moment. It could help him to be further from the LOS but his skills in coverage against slot guys is very helpful.</b>                        </div>
+                            <div class="postFooter">
+                                <div class="bluePostActions">
+                                    <a href=""
+                                       rel="nofollow"
+                                       class=" postAction postReply"
+                                       data-hover="Reply"
+                                       data-hover-timeout="700"
+                                       data-action="/forums/1/153114/reply/4229261"><span style="display:none">Reply</span></a>
+                                    <a href=""
+                                       rel="nofollow"
+                                       class=" postAction postQuote"
+                                       data-hover="Quote and reply"
+                                       data-hover-timeout="700"
+                                       data-action="/forums/1/153114/reply/4229261?isQuote=true"><span style="display:none">Quote</span></a>
+
+                                            <a class="postAction nextStaff" data-hover="Next staff post" data-hover-timeout="700"><span style="display:none">Next Staff</span></a>
+                                </div>
+
+                                <div class="bluePostControls">
+                                    <div class="edits">
+                                    </div>
+
+
+
+
+                                </div>
+                            </div>
+
+                    </div>
+            </div>
+            <div id="4229268" class="post vanillaPost u38740 tallPost" data-id="4229268" data-uid="38740" data-active="true" data-self="false" data-replycount="0">
+                <div class="userInfo white">
+                            <div class="postIcon fIcon icon-avatar">
+                                <img class="icon-avatar-img" src="https://f5s.blob.core.windows.net/web/themes/images/mugshot-empty.png" onerror="this.onerror=null;forums.photoError(this)" />
+                            </div>
+                        <a class="postUsername">4thandgoal</a>
+                        <div class="user-menu ">
+                            <div class="carrot"></div>
+
+                            <div class="subscribe f5-bg">
+                                <div class="subscribe-carrot"></div>
+
+                                <div class="user-menu-overflow">
+                                    <div class="message">
+                                        You must be a <span class="level"></span> subscriber to <span class="feature"></span>.
+                                    </div>
+                                    <a class="f5-bg-hover-color" href="/account/subscription">Subscribe Now</a>
+                                </div>
+                            </div>
+
+                            <div class="user-menu-overflow">
+                                <div class="user-info">
+                                        <img class="photo" alt="profile photo" src="https://f5s.blob.core.windows.net/web/themes/images/mugshot-empty.png" onerror="this.src='https://f5s.blob.core.windows.net/web/themes/images/mugshot-empty.png'" />
+
+                                    <div class="created">
+                                        <strong>Joined:</strong>
+                                        Apr 8, 2024
+                                    </div>
+                                    <div class="posts">
+                                            <strong>Posts:</strong>
+967                                    </div>
+                                </div>
+                                <div class="user-links">
+
+                                    <a class="user-link profile ajax" href="/account/profile/38740">User Profile</a>
+
+                                            <a class="user-link pm" href="/messages/send?u=4thandgoal">Private Message</a>
+
+                                        <a class="user-link ignore " data-action="/forums/_ignoreuser" data-id="38740" data-feature="ignore users">Ignore User</a>
+                                        <a class="user-link unignore" data-action="/forums/_stopignoring" data-id="38740">Stop Ignoring</a>
+
+
+                                </div>
+
+                                <div class="ignore-info">
+                                    How long do you want to ignore this user?
+                                </div>
+                                <div class="ignore-links">
+                                    <a class="ignore-link" data-length="24" data-id="38740" data-action="/forums/_ignoreuser">24 hours</a>
+                                    <a class="ignore-link" data-length="168" data-id="38740" data-action="/forums/_ignoreuser">One week</a>
+                                    <a class="ignore-link" data-id="38740" data-action="/forums/_ignoreuser">Permanently</a>
+                                    <a class="ignore-link cancel">Cancel</a>
+                                </div>
+                            </div>
+                        </div>
+                    
+
+                    <div class="newPostDate">
+
+                            <a href="/forums/1/topics/153114/replies/4229261"
+                               class="reply replyToOther"
+                               data-hover="Jump to post"
+                               data-id="4229261">In reply to graysongrundhoefer</a>
+&#8226;                        <a class="dateLink ajax" href="/forums/1/topics/153114/replies/4229268" rel="nofollow" data-hover="Link to post">
+9:53a                        </a>
+                    </div>
+
+                        <div class="userBadges">
+                                <div class="userTag userLevel ul4" data-hover="Veteran"></div>
+                            
+
+
+
+
+
+
+                                <div class="userStars stars-premium f5-premium-letter" data-hover="Premium Subscriber"></div>
+
+                        </div>
+                </div>
+
+                    <div class="postContent ">
+                        <div class="postBody ">
+<blockquote><div class="name-said">graysongrundhoefer said:</div><hr><blockquote><div class="name-said">4thandgoal said:</div><hr><blockquote><div class="name-said">graysongrundhoefer said:</div><hr><blockquote><div class="name-said">4thandgoal said:</div><hr>Could you see one of Williams or Simpkins moving to the other starting safety spot opposite of Bobby? Or are they both sticking at STAR? I still feel like the best potential is Coleman/Simpkins and Onu at STAR with Williams playing safety next to Bobby.<br /><br />I'm eager to see Turner, but could definitely see him still being a year away.<hr></blockquote><br />Williams is the only one I see moving back to field safety at any point this season.<br /><br />Simpkins isn't good enough in coverage to play back there consistently and Coleman just made the full time move to STAR so I doubt they would want to stunt his progression.<br /><br />We will see on Turner. Athletically he is an upgrade from last season so the thing to watch will be positioning with his limited experience. I really like the prospect though so we will see.<hr></blockquote><br /><br />Yeah I figured Simpkins was more a guy who should be playing closer to the LOS. Could be completely wrong here but with Williams' injury history I also think him being closer to the LOS and more physical contact could leave him more injured throughout the year. And I just think his speed is needed further back.<hr></blockquote><br />I think Baylor is trying to get the best three on the field which would be Williams, Turner and Bobby at this moment. It could help him to be further from the LOS but his skills in coverage against slot guys is very helpful.<hr></blockquote><br /><br />Got it. I think far and away over any positional concerns is simply him being healthy.                                    <div class="signature">2025 Adopt-a-Bear: Caden Knighten
+<br />
+<br />Rush Yards: | Touchdowns: | Receptions: | Rec. Yards: | Rec. Touchdowns:</div>
+</b>                        </div>
+                            <div class="postFooter">
+                                <div class="postActions">
+                                    <a href=""
+                                       rel="nofollow"
+                                       class=" postAction postReply"
+                                       data-hover="Reply"
+                                       data-hover-timeout="700"
+                                       data-action="/forums/1/153114/reply/4229268"><span style="display:none">Reply</span></a>
+                                    <a href=""
+                                       rel="nofollow"
+                                       class=" postAction postQuote"
+                                       data-hover="Quote and reply"
+                                       data-hover-timeout="700"
+                                       data-action="/forums/1/153114/reply/4229268?isQuote=true"><span style="display:none">Quote</span></a>
+
+                                            <a class="starLink postAction postGreyStar" data-hover-timeout="700" data-hover="Star post"><span style="display:none">Star</span></a>
+                                        <div class="starCount" style="display: none">0</div>
+                                </div>
+
+                                <div class="postControls">
+                                    <div class="edits">
+                                    </div>
+
+
+
+
+                                        <a class="postControl postFlag flag" data-hover="Flag post" data-cleared="false">
+                                        </a>
+                                </div>
+                            </div>
+
+                    </div>
+            </div>
+            <div id="4229300" class="post vanillaPost u630 tallPost" data-id="4229300" data-uid="630" data-active="true" data-self="false" data-replycount="1">
+                <div class="userInfo white">
+                            <div class="postIcon fIcon icon-avatar">
+                                <img class="icon-avatar-img" src="https://f5s.blob.core.windows.net/web/themes/images/mugshot-empty.png" onerror="this.onerror=null;forums.photoError(this)" />
+                            </div>
+                        <a class="postUsername">BU Chaparral</a>
+                        <div class="user-menu ">
+                            <div class="carrot"></div>
+
+                            <div class="subscribe f5-bg">
+                                <div class="subscribe-carrot"></div>
+
+                                <div class="user-menu-overflow">
+                                    <div class="message">
+                                        You must be a <span class="level"></span> subscriber to <span class="feature"></span>.
+                                    </div>
+                                    <a class="f5-bg-hover-color" href="/account/subscription">Subscribe Now</a>
+                                </div>
+                            </div>
+
+                            <div class="user-menu-overflow">
+                                <div class="user-info">
+                                        <img class="photo" alt="profile photo" src="https://f5s.blob.core.windows.net/web/themes/images/mugshot-empty.png" onerror="this.src='https://f5s.blob.core.windows.net/web/themes/images/mugshot-empty.png'" />
+
+                                    <div class="created">
+                                        <strong>Joined:</strong>
+                                        Aug 29, 2016
+                                    </div>
+                                    <div class="posts">
+                                            <strong>Posts:</strong>
+410                                    </div>
+                                </div>
+                                <div class="user-links">
+
+                                    <a class="user-link profile ajax" href="/account/profile/630">User Profile</a>
+
+                                            <a class="user-link pm" href="/messages/send?u=BU Chaparral">Private Message</a>
+
+                                        <a class="user-link ignore " data-action="/forums/_ignoreuser" data-id="630" data-feature="ignore users">Ignore User</a>
+                                        <a class="user-link unignore" data-action="/forums/_stopignoring" data-id="630">Stop Ignoring</a>
+
+
+                                </div>
+
+                                <div class="ignore-info">
+                                    How long do you want to ignore this user?
+                                </div>
+                                <div class="ignore-links">
+                                    <a class="ignore-link" data-length="24" data-id="630" data-action="/forums/_ignoreuser">24 hours</a>
+                                    <a class="ignore-link" data-length="168" data-id="630" data-action="/forums/_ignoreuser">One week</a>
+                                    <a class="ignore-link" data-id="630" data-action="/forums/_ignoreuser">Permanently</a>
+                                    <a class="ignore-link cancel">Cancel</a>
+                                </div>
+                            </div>
+                        </div>
+                    
+
+                    <div class="newPostDate">
+
+                        <a class="dateLink ajax" href="/forums/1/topics/153114/replies/4229300" rel="nofollow" data-hover="Link to post">
+10:29a                        </a>
+                    </div>
+
+                        <div class="userBadges">
+                                <div class="userTag userLevel ul4" data-hover="Veteran"></div>
+                            
+
+
+
+
+
+
+                                <div class="userStars stars-premium f5-premium-letter" data-hover="Premium Subscriber"></div>
+
+                        </div>
+                </div>
+
+                    <div class="postContent ">
+                        <div class="postBody ">
+Grayson,<br /><br />Just curious, why do we continue to struggle with the STAR position. Is it just really hard to find a fit?<br /><br />And I just went down a rabbit hole on the internet researching the STAR position, so I have a little more understanding of the position than I did before. Was it Saban or Belichick that invented the position?</b>                        </div>
+                            <div class="postFooter">
+                                <div class="postActions">
+                                    <a href=""
+                                       rel="nofollow"
+                                       class=" postAction postReply"
+                                       data-hover="Reply"
+                                       data-hover-timeout="700"
+                                       data-action="/forums/1/153114/reply/4229300"><span style="display:none">Reply</span></a>
+                                    <a href=""
+                                       rel="nofollow"
+                                       class=" postAction postQuote"
+                                       data-hover="Quote and reply"
+                                       data-hover-timeout="700"
+                                       data-action="/forums/1/153114/reply/4229300?isQuote=true"><span style="display:none">Quote</span></a>
+
+                                            <a class="starLink postAction postGreyStar" data-hover-timeout="700" data-hover="Star post"><span style="display:none">Star</span></a>
+                                        <div class="starCount" style="display: none">0</div>
+                                </div>
+
+                                <div class="postControls">
+                                    <div class="edits">
+                                                1 edit
+                                    </div>
+
+
+
+
+                                        <a class="postControl postFlag flag" data-hover="Flag post" data-cleared="false">
+                                        </a>
+                                </div>
+                            </div>
+
+                    </div>
+            </div>
+                <div id="0"></div>
+            <div id="4229317" class="post staffPost u3108 tallPost" data-id="4229317" data-uid="3108" data-active="true" data-self="false" data-replycount="0">
+                <div class="userInfo white">
+                            <div class="postIcon fIcon icon-avatar">
+                                <img class="icon-avatar-img" src="https://f5s001media.blob.core.windows.net/photos/0050426-blbj-360x360.jpg" onerror="this.onerror=null;forums.photoError(this)" />
+                            </div>
+                        <a class="postUsername">graysongrundhoefer</a>
+                        <div class="user-menu ">
+                            <div class="carrot"></div>
+
+                            <div class="subscribe f5-bg">
+                                <div class="subscribe-carrot"></div>
+
+                                <div class="user-menu-overflow">
+                                    <div class="message">
+                                        You must be a <span class="level"></span> subscriber to <span class="feature"></span>.
+                                    </div>
+                                    <a class="f5-bg-hover-color" href="/account/subscription">Subscribe Now</a>
+                                </div>
+                            </div>
+
+                            <div class="user-menu-overflow">
+                                <div class="user-info">
+                                        <img class="photo" alt="profile photo" src="https://f5s001media.blob.core.windows.net/photos/0050426-blbj-360x360.jpg" onerror="this.src='https://f5s.blob.core.windows.net/web/themes/images/mugshot-empty.png'" />
+
+                                    <div class="created">
+                                        <strong>Joined:</strong>
+                                        Dec 8, 2016
+                                    </div>
+                                    <div class="posts">
+                                            <strong>Posts:</strong>
+45,400                                    </div>
+                                </div>
+                                <div class="user-links">
+
+                                    <a class="user-link profile ajax" href="/account/profile/3108">User Profile</a>
+
+                                            <a class="user-link pm" href="/messages/send?u=graysongrundhoefer">Private Message</a>
+
+
+
+                                </div>
+
+                                <div class="ignore-info">
+                                    How long do you want to ignore this user?
+                                </div>
+                                <div class="ignore-links">
+                                    <a class="ignore-link" data-length="24" data-id="3108" data-action="/forums/_ignoreuser">24 hours</a>
+                                    <a class="ignore-link" data-length="168" data-id="3108" data-action="/forums/_ignoreuser">One week</a>
+                                    <a class="ignore-link" data-id="3108" data-action="/forums/_ignoreuser">Permanently</a>
+                                    <a class="ignore-link cancel">Cancel</a>
+                                </div>
+                            </div>
+                        </div>
+                    
+
+                    <div class="newPostDate">
+
+                            <a href="/forums/1/topics/153114/replies/4229300"
+                               class="reply replyToOther"
+                               data-hover="Jump to post"
+                               data-id="4229300">In reply to BU Chaparral</a>
+&#8226;                        <a class="dateLink ajax" href="/forums/1/topics/153114/replies/4229317" rel="nofollow" data-hover="Link to post">
+10:50a                        </a>
+                    </div>
+
+                        <div class="userBadges">
+                                <div class="userTag staffTag" data-hover="SicEm365 Staff">Staff</div>
+                            
+
+
+
+
+
+
+
+                        </div>
+                </div>
+
+                    <div class="postContent ">
+                        <div class="postBody ">
+<blockquote><div class="name-said">BU Chaparral said:</div><hr>Grayson,<br /><br />Just curious, why do we continue to struggle with the STAR position. Is it just really hard to find a fit?<br /><br />And I just went down a rabbit hole on the internet researching the STAR position, so I have a little more understanding of the position than I did before. Was it Saban or Belichick that invented the position?<hr></blockquote><br />Yep it has been a little troubling but make no mistake it takes a pretty special player to fill the role. You have to have very good football instincts, be able to cover at a high level in the slot and be physical enough to be a factor against the run. If you don't have one of these then you are likely just going to be a part time player at the position. I remember Christian Morgan got moved there one spring then was quickly moved back to safety due in large part to instincts. It's a tough one to fill that requires a really good evaluation. I do think Carl Williams fits here very well if he can stay healthy.<br /><br />It has been around for a while but if you watch the NFL or a lot of college football it is essentially a nickel. Even Phil Bennett's defense usually had one on the field. Guys like Sam Holl, Travon Blanchard, Colin Brence fit the mold. Then with Rhule it was Henry Black primarily. It has become very common in order to combat these high-powered offenses in college football.</b>                        </div>
+                            <div class="postFooter">
+                                <div class="bluePostActions">
+                                    <a href=""
+                                       rel="nofollow"
+                                       class=" postAction postReply"
+                                       data-hover="Reply"
+                                       data-hover-timeout="700"
+                                       data-action="/forums/1/153114/reply/4229317"><span style="display:none">Reply</span></a>
+                                    <a href=""
+                                       rel="nofollow"
+                                       class=" postAction postQuote"
+                                       data-hover="Quote and reply"
+                                       data-hover-timeout="700"
+                                       data-action="/forums/1/153114/reply/4229317?isQuote=true"><span style="display:none">Quote</span></a>
+
+                                </div>
+
+                                <div class="bluePostControls">
+                                    <div class="edits">
+                                    </div>
+
+
+
+
+                                </div>
+                            </div>
+
+                    </div>
+            </div>
+</div>
+
+<div id="largePager">
+    <div id="largePagerSelect" class="clickMenu squareClickMenu" style="display: none">
+                <a href="/s/19857/projecting-baylors-defensive-depth-chart-questions-at-safety-depth-at-linebacker-more/1/0" class="ajax inner pageMenuItem f5-bg-hover" data-forumID="1" data-topicID="153114" data-action="/forums/_topicsinner" data-filter1="" data-filter2="" data-storyID="19857" data-page="0">Skip to Last</a>
+                <a href="/s/19857/projecting-baylors-defensive-depth-chart-questions-at-safety-depth-at-linebacker-more/1/1" class="ajax inner pageMenuItem f5-bg-hover" data-forumID="1" data-topicID="153114" data-action="/forums/_topicsinner" data-filter1="" data-filter2="" data-storyID="19857" data-page="1">Page 1</a>
+    </div>
+
+    <div id="currentPageHolder" style="display: none;">
+        Page 1 of 1
+    </div>
+
+
+
+
+
+        <a href="/s/19857/projecting-baylors-defensive-depth-chart-questions-at-safety-depth-at-linebacker-more/1/next" class="refresh pageButton ajax" data-hover="Refresh" data-hover-timeout="700"><span style="display:none">Refresh</span></a>
+
+    <div id="textPageHolder" class="currentPage ">
+        Page 1 of 1
+
+    </div>
+
+</div>
+
+<div id="footer">
+        <a href="" id="largeNewPost" class=" new f5-btn maroonButton">
+            Post Reply
+        </a>
+
+        <a href="/forums/1" class="ajax backToList f5-btn" data-hover="Back to topics"><span style="display:none">Back to topics</span></a>
+
+    <a id="toTop" class="f5-link f5-btn" data-hover="Top of page"></a>
+</div>
+
+<div id="blockedImageStore" style="display: none;">
+    <div class="blockedImage">
+        <div>
+            <strong class="message">This post has been flagged.</strong>
+            <div class="action">Click to display linked image.</div>
+        </div>
+    </div>
+</div>
+
+<div id="largeContainer">
+
+    <img id="forumslargeImage" />
+
+</div>
+
+<input type="hidden" id="storyURL" value="http://SicEm365.com/s/19857/projecting-baylors-defensive-depth-chart-questions-at-safety-depth-at-linebacker-more" />
+
+<script type="text/javascript">
+    $(function () {
+        forums.bindQuoteCollapse();
+
+        forums.embeds.bindForPosts($('#postsPage')[0], 'auto');
+
+        dashboards.markNotificationViewed(2, '153114');
+        dashboards.markNotificationViewed(1, '153114');
+
+        forums.init(1, 153114);
+        forums.bindInner('#forums #posts', '#forums #posts', false);
+        forums.bindNew('/forums/1/153114/new',
+            false,
+            false,
+            'sicem365.com');
+        forums.bindStaffMessages();
+        forums.bindSpoilers();
+        forums.bindAccordianActions(false);
+        forums.images.bind(false, false);
+        $('#forums').bubble();
+
+
+        forums.bindPoll();
+
+        forums.loadVotedPoll(false, 0, true); 
+        /**/
+
+            forums.bindStars('/forums/_starpost', 5);
+            forums.bindFlags('/forums/_flagitem', '/forums/_flagpost');
+            
+                forums.bindStaffPosts('/forums/_topicsinner', [4229190,4229250,4229261,4229317]);
+                
+
+                    forums.bindCheckboxes('#forums #header', '/s/19857/projecting-baylors-defensive-depth-chart-questions-at-safety-depth-at-linebacker-more/1/1/', '/forums/_topicsinner', 19857);
+                
+
+            forums.bindWatchlist('/forums/_watchlisttoggle');
+            
+
+
+
+        page.innerLoadAds(false,
+                                false,
+                                false,
+                                '001',
+                                1,
+                                'topics')
+        page.showAds();
+
+    });
+</script>
+
+<script type="text/javascript">
+document.title = "Projecting Baylor's Defensive Depth Chart: Questions at Safety, Depth at Linebacker, More | SicEm365";</script>
+
+
+                    </div>
+                    <div class="user-menu-overlay"></div>
+                </div>
+            </div>
+    </div>
+</div>
+
+<script type="text/javascript">
+    $(function () {
+        stories.prepare();
+        stories.token = 'st=1755791774~exp=1755792314~acl=/*~hmac=a96f535379dafa2444484b4b67304ad7c50ca097c862161abf4dc63b66a24054';
+
+        dashboards.markNotificationViewed(0, '19857');
+
+        var $newslettertag = $('#newsletter-spot');
+        if ($newslettertag.length) {
+            $('#non-user-email-surrounding').appendTo($newslettertag);
+        }
+
+
+            forums.bindForumMenu();
+
+
+
+
+        ;(function (selector) {
+            var storyBodyElement = $(selector)[0];
+            forums.embeds.loadAllInstagramEmbeds(storyBodyElement);
+            forums.embeds.loadAllTwitterEmbeds(storyBodyElement);
+        }('#stories #body'));
+    });
+</script>
+
+<script>
+    var photos = new Array();
+    $(document).ready(function () {
+        $(".mod-photo").each(function () {
+            var $o = $(this);
+
+            var mediaItemID, caption;
+            if ($o.find(".mod-config").length > 0) {
+                var data = JSON.parse($(this).find(".mod-config").html().replace("/\n/gi", ""));
+                caption = data.Caption;
+                mediaItemID = data.MediaItemID;
+            }
+            else {
+                mediaItemID = $o.find('img').data('mediaitemid');
+                if (mediaItemID) {
+                    if ($o.find('.mod-photo-credit').length > 0) {
+                        caption = $o.find('.mod-photo-caption').text() + "<div class='photo-credit'>photo credit: " + $o.find('.mod-photo-credit').text() + "</div>";
+                    } 
+                    else {
+                        caption = $o.find('.mod-photo-caption').text();
+                    }
+                }
+                else {
+                    caption = $o.data("caption");
+                    mediaItemID = $o.data("mediaitemid");
+                }
+            }
+
+            $o.click(function () {
+                std.previewPhoto(mediaItemID, caption, $o.find('img').attr('src'));
+            });
+        });
+    });
+</script>
+
+    <script>
+        stories.bindSideStory('001','False');
+    </script>
+
+        </div>
+
+        <div class="pageAd bottomAd">
+            <div data-hide="true" id='div-gad-LeaderboardBottom' style="min-height: 90px;"></div><div id='div-gad-LeaderboardBottom2' style="min-height: 90px; display: none;"></div><div id='div-gad-LeaderboardBottom3' style="min-height: 90px; display: none;"></div>
+        </div>
+
+        <div id="pageFooterBox" class="f5-bg f5-border-alt">
+            <div id="pageFooter" style="non-full-header f5-bg">
+                <div id="pageFooterTitle">
+                        <a href="http://f5sports.com" target="_blank" class="footerLogo"></a>
+                </div>
+                <div id="pageFooterNav">
+                    <ul>
+                        <li><a href="/" class="ajax" aria-label="sicem365.com">Home</a></li>
+                        <li><a href="/account">Account</a></li>
+                            <li id="footer-advertise"><a href="/s/6537/media-kit" class="ajax">Advertise</a></li>
+                            <li><a href="/help/faq" class="ajax">Help</a></li>
+                            <li><a href="/contact" class="ajax">Contact</a></li>
+                        <li><a href="/terms" class="ajax">Terms &amp; Privacy</a></li>
+                            <li id="footer-site-map"><a href="/sitemap">Site Map</a></li>
+                        <li><a href="javascript:page.goMobile();">Mobile Site</a></li>
+
+                    </ul>
+                </div>
+                <div id="pageFooterSocial">
+                    <div class="follow-text">Follow SicEm365</div>
+
+                        <a class="pageTwitter" href="https://x.com/sicem365" target="_blank" aria-label="SicEm365 on Twitter"><span class="logo"></span></a>
+
+                        <a class="pageFacebook" href="https://www.facebook.com/sicem365" target="_blank" aria-label="SicEm365 on Facebook"><span class="logo"></span></a>
+
+                        <a class="pageInstagram" href="https://instagram.com/sicem365" target="_blank" aria-label="SicEm365 on Instagram"><span class="logo"></span></a>
+
+                </div>
+                <div id="pageFooterDisclaimer" class="">
+                    <div class="page-footer-disclaimer-text">
+SicEm365 is an independent site and is not affiliated with Baylor University. &#xA9;2025 SicEm365. All rights reserved.                    </div>
+                </div>
+
+            </div>
+            <div class="adsbox">&nbsp;</div>
+        </div>
+
+        <div class="clearfix"></div>
+    </div>
+    <div id="statusarea"><div id="statusmessage"></div></div>
+
+
+
+    <div id="auth" class="f5-text">
+        <div class="close">&times;</div>
+        <img alt="SicEm365 Logo" class="logo f5-logo-color-content" />
+        <div class="text"></div>
+        <div class="site-text"></div>
+
+        <div class="buttons">
+                <a href="/account/subscription" class="subscribe f5-btn">Subscribe</a>
+                <a href="/account/subscription" class="trial f5-btn-alt"><span style="visibility: hidden;">subscribe</span></a>
+            <a href="/account/student" class="verify f5-btn">Verify your student status</a>
+            <a href="/account/logon" class="login">Log In</a>
+        </div>
+
+        <div class="benefits">
+            <a href="/subscribe" class="f5-link">See Subscription Benefits</a>
+        </div>
+
+        <div class="fine">Trial only available to users who have never subscribed or participated in a previous trial.</div>
+    </div>
+
+    <div id="authOverlay"></div>
+
+
+    <div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="pswp__bg"></div>
+    <div class="pswp__scroll-wrap">
+        <div class="pswp__container">
+            <div class="pswp__item"></div>
+            <div class="pswp__item"></div>
+            <div class="pswp__item"></div>
+        </div>
+        <div class="pswp__ui pswp__ui--hidden">
+            <div class="pswp__top-bar">
+                <div class="pswp__counter"></div>
+                <button class="pswp__button pswp__button--close" title="Close (Esc)"></button>
+                <button class="pswp__button pswp__button--share" title="Share"></button>
+                <button class="pswp__button pswp__button--fs" title="Toggle fullscreen"></button>
+                <button class="pswp__button pswp__button--zoom" title="Zoom in/out"></button>
+                <div class="pswp__preloader">
+                    <div class="pswp__preloader__icn">
+                        <div class="pswp__preloader__cut">
+                            <div class="pswp__preloader__donut"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
+                <div class="pswp__share-tooltip"></div>
+            </div>
+
+            <button class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)"></button>
+            <button class="pswp__button pswp__button--arrow--right" title="Next (arrow right)"></button>
+
+            <div class="pswp__caption">
+                <div class="pswp__caption__left"></div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+    <script type="text/html" id="notifications-dashboard--template">
+    <div class="notifications--dashboard-container">
+        <div class="notifications--header">
+            <div class="notifications--title">Notifications</div>
+            <div class="dash-header-buttons">
+                <a class="dash-header-button ajax" data-bind="attr: { href: urlBookmarks }">All Bookmarks</a>
+                <!-- ko ifnot: isWatchlistOnly -->
+                <a class="dash-header-button settings-button f5-icon gear ajax" data-bind="attr: { href: urlSettings }"></a>
+                <!-- /ko -->
+            </div>
+        </div>
+        <!-- ko ifnot: isWatchlistOnly -->
+        <div class="notifications--sub-header">
+            <label class="custom-radio notifications--unread-preference-option">
+                <span class="radio-input">
+                    <input type="radio" name="notificationFilterOption" data-bind="checkedValue: true, checked: shouldLoadUnreadOnly" />
+                    <span class="radio-control"></span>
+                </span>
+                <span class="radio-label">Unread only</span>
+            </label>
+            <label class="custom-radio notifications--unread-preference-option">
+                <span class="radio-input">
+                    <input type="radio" name="notificationFilterOption" data-bind="checkedValue: false, checked: shouldLoadUnreadOnly" />
+                    <span class="radio-control"></span>
+                </span>
+                <span class="radio-label">Show all</span>
+            </label>
+            <div style="flex-grow: 1"></div>
+            <div class="notifications--mark-all-as-read" data-bind="click: markAllAsRead">
+                <span class="check-circle-outline f5-icon"></span>
+                <span>Mark all as read</span>
+            </div>
+        </div>
+        <!-- /ko -->
+        <div class="notifications--content">
+            <!-- ko foreach: notifications -->
+            <a class="notifications--notification" data-bind="attr: { href: url }, css: { read: isRead }, event: { mouseover: mouseover, mouseleave: mouseout }, click: selected">
+                <div class="notification--dot-container" data-bind="ifnot: isRead">
+                    <div class="notification--dot" data-bind="ifnot: isRead, class: iconClasses"></div>
+                </div>
+                <div class="notification--icon" data-bind="class: iconClasses"></div>
+                <div class="notification--info">
+                    <div class="notification--supertitle" data-bind="text: supertitle"></div>
+                    <div class="notification--title" data-bind="text: title"></div>
+                    <div class="notification--subtitles" data-bind="foreach: subtitles">
+                        <!-- ko if: $index -->
+                        <span class="subtitle-separator-dot">&bull;</span>
+                        <!-- /ko -->
+                        <span data-bind="text: $data"></span>
+                    </div>
+                </div>
+                <div class="notification--mark-as-read--container" data-bind="if: markAsReadIsVisible() && !$parent.isWatchlistOnly()">
+                    <div class="notification--mark-as-read f5-icon check-circle-outline" data-bind="click: markAsRead, clickBubble: false" data-title="Mark as read"></div>
+                </div>
+                <div class="notification--time">
+                    <!-- ko ifnot: ellipsisIsVisible -->
+                    <span class="notification--time-text" data-bind="text: timestamp"></span>
+                    <!-- /ko -->
+                    <!-- ko if: ellipsisIsVisible -->
+                    <ko-dash-menu params="viewModel: $data, parentIsVisible: isBookmark">
+                        <div class="dash-menu-button" data-bind="click: deleteBookmark, clickBubble: false">
+                            <div class="f5-icon bookmark-delete"></div>
+                            <div class="button-label">Delete Bookmark</div>
+                        </div>
+                        <div class="dash-menu-button" data-bind="click: saveBookmark, clickBubble: false">
+                            <div class="f5-icon bookmark" data-bind="css: { active: isSaved }"></div>
+                            <div class="button-label" data-bind="text: isSaved() ? 'Saved' : 'Save'"></div>
+                        </div>
+                        <!-- ko ifnot: isBookmarkOnly -->
+                        <div class="separator"></div>
+                        <ko-dash-menu-radio-group params="name: notificationPreferenceRadioOptionsName, options: notificationOptions, value: selectedNotificationOption, label: 'Topic Notifications'"></ko-dash-menu-radio-group>
+                        <!-- /ko -->
+                    </ko-dash-menu>
+                    <!-- /ko -->
+                </div>
+            </a>
+            <!-- /ko -->
+            <!-- ko if: shouldShowLoader -->
+            <div class="notification-load-spinner" data-bind="
+                inScrollView: isInScrollView, 
+                checkInScrollView: true, 
+                scrollParent: '.notifications--content', 
+                spinner: loadSpinner, 
+                shouldSpin: true"></div>
+            <!-- /ko -->
+        </div>
+        <!-- ko if: shouldShowNone -->
+        <div class="notifications--none">
+            <div data-bind="text: noNotificationsText"></div>
+        </div>
+        <!-- /ko -->
+    </div>
+</script>
+
+<script type="text/html" id="moderation-dashboard--template">
+    <div class="dash-popup">
+        <div class="dash-header">
+            <div class="dash-title">Flagged Posts</div>
+            <div class="dash-header-buttons">
+                <a class="dash-header-button ajax" href="/forums/moderation/dashboard">Full Dashboard</a>
+            </div>
+            <ko-dash-menu params="viewModel: $data, parentIsVisible: isActive">
+                <a class="dash-menu-button ajax" href="/forums/moderation/dashboard">
+                    <div class="f5-icon list"></div>
+                    <div class="button-label">Full Moderator Dashboard</div>
+                </a>
+                <a class="dash-menu-button ajax" href="/forums/moderation/recent">
+                    <div class="f5-icon flag"></div>
+                    <div class="button-label">Recent Moderation</div>
+                </a>
+                <a class="dash-menu-button ajax" href="/forums/moderation/recent/registrations">
+                    <div class="f5-icon profile"></div>
+                    <div class="button-label">Recent Registrations</div>
+                </a>
+                <!-- ko if: hasUserSearch -->
+                <a class="dash-menu-button ajax" href="/admin/accounts">
+                    <div class="f5-icon search"></div>
+                    <div class="button-label">User Search</div>
+                </a>
+                <!-- /ko -->
+                <!-- ko if: moderatorForumLink -->
+                <a class="dash-menu-button ajax" data-bind="attr: { href: moderatorForumLink }">
+                    <div class="f5-icon forum"></div>
+                    <div class="button-label">Moderator Forum</div>
+                </a>
+                <!-- /ko -->
+            </ko-dash-menu>
+        </div>
+        <!-- ko if: isLoading -->
+        <div class="dashboard-loading-indicator-container" data-bind="if: showLoadingIndicator">
+            <div class="dashboard-loading-indicator" data-bind="spinner: loadSpinner, shouldSpin: true"></div>
+        </div>
+        <!-- /ko -->
+        <!-- ko ifnot: isLoading -->
+        <div class="no-flagged-posts" data-bind="hidden: hasFlaggedPosts">No flagged replies at this time.</div>
+        <div class="flagged-posts-table dash-table" data-bind="if: hasFlaggedPosts">
+            <!-- ko foreach: forums -->
+            <div class="dash-table-headers">
+                <div class="dash-table-row">
+                    <div class="cell col-topic-title" data-bind="text: forumTitle">Topic</div>
+                    <div class="cell col-username">User</div>
+                    <div class="cell col-flags">Flags</div>
+                </div>
+            </div>
+            <div class="dash-table-body" data-bind="foreach: flaggedPosts">
+                <a class="dash-table-row" data-bind="attr: { href: link }">
+                    <div class="cell col-topic-title" data-bind="text: topicTitle"></div>
+                    <div class="cell col-username" data-bind="text: username"></div>
+                    <div class="cell col-flags">
+                        <span class="new-flag-count" data-bind="text: flagCount"></span>
+                        <span class="cleared-flag-count" data-bind="if: clearedFlagCount">/ <span data-bind="text: clearedFlagCount"></span></span>
+                    </div>
+                </a>
+            </div>
+            <!-- /ko -->
+        </div>
+        <!-- /ko -->
+    </div>
+</script>
+
+<script type="text/html" id="private-messages-dashboard--template">
+    <div class="dash-popup">
+        <div class="dash-header">
+            <div class="dash-title">Private Messages</div>
+            <div class="dash-header-buttons">
+                <a class="dash-header-button ajax" href="/messages">Full Inbox</a>
+            </div>
+        </div>
+    </div>
+    <!-- ko if: isLoading -->
+    <div class="dashboard-loading-indicator-container" data-bind="if: showLoadingIndicator">
+        <div class="dashboard-loading-indicator" data-bind="spinner: loadSpinner, shouldSpin: true"></div>
+    </div>
+    <!-- /ko -->
+    <!-- ko ifnot: isLoading -->
+    <div class="no-unread-messages" data-bind="hidden: hasUnreadMessages">No unread messages.</div>
+    <div class="unread-messages-table dash-table" data-bind="if: hasUnreadMessages">
+        <div class="dash-table-headers">
+            <div class="dash-table-row">
+                <div class="cell col-subject">Subject</div>
+                <div class="cell col-from">From</div>
+                <div class="cell col-date">Date</div>
+            </div>
+        </div>
+        <div class="dash-table-body" data-bind="foreach: unreadMessages">
+            <a class="dash-table-row" data-bind="attr: { href: link }">
+                <div class="cell col-subject" data-bind="text: subject"></div>
+                <div class="cell col-from" data-bind="text: fromUsername"></div>
+                <div class="cell col-date" data-bind="text: sentDate"></div>
+            </a>
+        </div>
+    </div>
+    <!-- /ko -->
+</script>
+
+<script type="text/html" id="account-dashboard--template">
+    <ul class="menu-options">
+        <li><a class="ajax" href="/account/profile" aria-label="my profile">My Profile</a></li>
+        <li><a href="/account">Settings</a></li>
+        <li><a id="btnLogoff" data-bind="click: logOut">Log Out</a></li>
+    </ul>
+</script>
+
+</body>
+</html>
